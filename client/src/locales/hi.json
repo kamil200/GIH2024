@@ -1,0 +1,29 @@
+{
+    "login.welcome": "Welcome Back",
+    "login.email": "Email",
+    "login.emailValidation": "The input is not a valid E-mail!",
+    "login.emailRequired": "Please input your Email!",
+    "login.password": "Password",
+    "login.loginButton": "LOGIN",
+    "login.registerLink": "CLICK HERE TO REGISTER",
+    "SERVICES": "सेवाएँ",
+    "Income Certificate":"abc",
+        "Phone Number": "फ़ोन नंबर",
+        "Address": "पता",
+        "Fees per document": "दस्तावेज़ प्रति शुल्क",
+        "Timings": "समय",
+        
+            "Home": "होम",
+            "Appointment": "अपॉइंटमेंट",
+            "Apply Department": "विभाग लागू करें",
+            "Profile": "प्रोफाइल",
+            "Users": "उपयोगकर्ता",
+            "Departments": "विभाग",
+            "Admin": "व्यवस्थापक",
+            "Department": "विभाग",
+            "User": "उपयोगकर्ता",
+            "Logout": "लॉग आउट"
+          
+          
+       
+  }

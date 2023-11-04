@@ -1,0 +1,16 @@
+{
+    "login.welcome": "Welcome Back",
+    "login.email": "Email",
+    "login.emailValidation": "The input is not a valid E-mail!",
+    "login.emailRequired": "Please input your Email!",
+    "login.password": "Password",
+    "login.loginButton": "LOGIN",
+    "login.registerLink": "CLICK HERE TO REGISTER",
+    
+        "Phone Number": "Phone Number",
+        "Address": "Address",
+        "Fees per document": "Fees per document",
+        "Timings": "Timings"
+      
+  }
+  
